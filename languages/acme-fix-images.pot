@@ -2,17 +2,25 @@
 # This file is distributed under the GPL-2.0+.
 msgid ""
 msgstr ""
-"Project-Id-Version: Acme Fix Images - Regenerate Thumbnails 2.0.2\n"
+"Project-Id-Version: Acme Fix Images - Regenerate Thumbnails 2.0.3\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/acme-fix-images\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-08-14T15:02:03+00:00\n"
+"POT-Creation-Date: 2024-10-30T11:11:33+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.6.0\n"
 "X-Domain: acme-fix-images\n"
+
+#: src/admin/components/organisms/admin-header.js:27
+msgid "Acme fix images"
+msgstr ""
+
+#: src/admin/components/organisms/admin-header.js:34
+msgid "Show all hidden informations, notices and documentations "
+msgstr ""
 
 #: src/admin/fix-images.js:100
 #: languages/translation-js.php:25
@@ -159,20 +167,20 @@ msgstr ""
 msgid "https://acmethemes.com/"
 msgstr ""
 
-#: admin/class-admin.php:242
+#: admin/class-admin.php:276
 msgid "Reading attachments..."
 msgstr ""
 
-#: admin/class-admin.php:252
+#: admin/class-admin.php:286
 msgid "Done."
 msgstr ""
 
-#: admin/class-admin.php:256
+#: admin/class-admin.php:290
 msgid "Error"
 msgstr ""
 
-#: admin/class-admin.php:264
-#: admin/class-admin.php:269
+#: admin/class-admin.php:298
+#: admin/class-admin.php:303
 msgid "Fix Images"
 msgstr ""
 

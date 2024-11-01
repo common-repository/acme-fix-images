@@ -8,7 +8,7 @@
  *
  * Plugin Name:       Acme Fix Images - Regenerate Thumbnails
  * Description:       Fix image sizes after you have changed image sizes from Media Settings.
- * Version:           2.0.2
+ * Version:           2.0.3
  * Author:            acmethemes
  * Author URI:        https://acmethemes.com/
  * License:           GPL-2.0+
@@ -31,7 +31,7 @@ if ( ! defined( 'WPINC' ) ) {
  */
 define( 'ACME_FIX_IMAGES_PATH', plugin_dir_path( __FILE__ ) );
 define( 'ACME_FIX_IMAGES_URL', plugin_dir_url( __FILE__ ) );
-define( 'ACME_FIX_IMAGES_VERSION', '2.0.2' );
+define( 'ACME_FIX_IMAGES_VERSION', '2.0.3' );
 define( 'ACME_FIX_IMAGES_PLUGIN_NAME', 'acme-fix-images' );
 define( 'ACME_FIX_IMAGES_OPTION_NAME', 'acme_fix_images_options' );
 
